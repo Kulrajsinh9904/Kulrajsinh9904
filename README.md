@@ -1,7 +1,8 @@
 - 🙏🏻JAY MATAJI🙏🏻
 -  I’m Chauhan Kulrajsinh
 - 🌱 I’m currently learning ...Javascript
-- 📫 How to reach me ...@chauhan_kulrajsinh_9904
+- 📫 How to reach me ...chauahnkulrajsinh9904@gmail.com
+@chauhan_kulrajsinh_9904
 
 <!---
 Kulrajsinh9904/Kulrajsinh9904 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
