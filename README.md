@@ -1,5 +1,5 @@
-<h1 align="center">🙏🏻JAY MATAJI🙏🏻<br>MY SELF</br>👑CHAUHAN KULRAJ SINH👑"</br></h1>
-<img aling="right" atl="coding" width="400" src="https://imgs.search.brave.com/wCs4hikjXNyAX35l0LuKMA9yt8T1QaZNC8AEAoy0O8E/rs:fit:226:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5l/UHZXa1lQM1ZkMGct/Nlowc29aUi1RQUFB/QSZwaWQ9QXBp">
+<h1 align="center">🙏🏻JAY MATAJI🙏🏻<br>MY SELF</br>👑CHAUHAN KULRAJ SINH👑</br></h1>
+<img aling="center" atl="coding" width="250" src="https://imgs.search.brave.com/dGqTGyHvLpS70fTvDls-k55j1bQ6u6vmrajM4pKNnpY/rs:fit:260:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC43/dW5sYTBfNTMtUDNh/LXFCMWlLVmJnQUFB/QSZwaWQ9QXBp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kulrajsinh9904&label=Profile%20views&color=0e75b6&style=flat" alt="kulrajsinh9904" /> </p>
 
 - 📫 How to reach me **chauhankulrajsinh9904@gmail.com**
